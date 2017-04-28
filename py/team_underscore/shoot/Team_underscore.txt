@@ -1,5 +1,5 @@
 Team underscore
 
-Base de départ pour la compétition NAO Foot UV 2.7 2017 :
-Chef d'équipe : Marion BADEL (marionbdl)
-Membres de l'équipe : Corentin Néron Jean-Baptiste Peuzin Thomas Le Masson Téva Démangeot Pierre Quentin Cédric Delaunay Yanis Berkouk 
+Base de dÃ©part pour la compÃ©tition NAO Foot UV 2.7 2017 :
+Chef d'Ã©quipe : Marion BADEL (marionbdl)
+Membres de l'Ã©quipe : Corentin NÃ©ron (marine2017) Jean-Baptiste Peuzin (robotjean) Thomas Le Masson (RobotTom) TÃ©va Demangeot (demangte) Pierre Filiol (onclepixou) Quentin Desaulty (resuname) CÃ©dric Delaunay (CedricDly) Yanis Berkouk (berkouya) Romain Dussot (dussotro) Jocelyne
